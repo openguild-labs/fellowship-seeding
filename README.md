@@ -7,3 +7,8 @@ This repository is used to store the record of the OpenGuild Technical Contribut
 Aside from the other requirements mentioned in the **OG Technical Contributor - Admission**. OpenGuild Labs expects the technical contributor to have a decent level of technical experience and skills to join the collective.
 - Fork this repository
 - Create a new issue named `Application | [Name of the applicants] | Nominated by [Name of the nominators] (If yes)`
+
+## Technical Contributor Listings
+| OpenGuild Rank | Name | Github Username  | Polkadot Address |
+| ------------ | ------------- | ------------- | ------------- |
+| Elder | Tin Chung  | [chungquantin](https://github.com/chungquantin) | 19nSqFQorfF2HxD3oBzWM3oCh4SaCRKWt1yvmgaPYGCo71J  |
