@@ -10,7 +10,8 @@ Aside from the other requirements mentioned in the **OG Technical Contributor - 
 - If you application is approved, you will be added to private channels of the technical contributors and receive resources from the team. 
 
 ## Technical Contributor Listings
+👨‍🎓 = PBA graduate
 | OpenGuild Rank | Name | Github Username | Discord  | Onchain Identity |
 | ------------ | ------------- | ------------- | ------- | ------------- |
-| Elder | Tin Chung  | [chungquantin](https://github.com/chungquantin) | chasechung | DOT: 19nSqFQorfF2HxD3oBzWM3oCh4SaCRKWt1yvmgaPYGCo71J  |
-| Member | Deepak Chaudhary | [Deepak Chaudhary](https://github.com/Aideepakchaudhary) |  aideepak | DOT: 16htXkeVhfroBhL6nuqiwknfXKcT6WadJPZqEi2jRf9z4XPY |
+| Elder | 👨‍🎓 Tin Chung  | [chungquantin](https://github.com/chungquantin) | chasechung | DOT: 19nSqFQorfF2HxD3oBzWM3oCh4SaCRKWt1yvmgaPYGCo71J  |
+| Member | 👨‍🎓 Deepak Chaudhary | [Deepak Chaudhary](https://github.com/Aideepakchaudhary) |  aideepak | DOT: 16htXkeVhfroBhL6nuqiwknfXKcT6WadJPZqEi2jRf9z4XPY |
