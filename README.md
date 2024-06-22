@@ -7,6 +7,7 @@ This repository is used to store the record of the OpenGuild Technical Contribut
 Aside from the other requirements mentioned in the **OG Technical Contributor - Admission**. OpenGuild Labs expects the technical contributor to have a decent level of technical experience and skills to join the collective.
 - Fork this repository
 - Create a new issue named `Application | [Name of the applicants] | Nominated by [Name of the nominators] (If yes)`
+- If you application is approved, you will be added to private channels of the technical contributors and receive resources from the team. 
 
 ## Technical Contributor Listings
 | OpenGuild Rank | Name | Github Username | Discord  | Onchain Identity |
