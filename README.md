@@ -9,6 +9,6 @@ Aside from the other requirements mentioned in the **OG Technical Contributor - 
 - Create a new issue named `Application | [Name of the applicants] | Nominated by [Name of the nominators] (If yes)`
 
 ## Technical Contributor Listings
-| OpenGuild Rank | Name | Github Username  | Polkadot Address |
-| ------------ | ------------- | ------------- | ------------- |
-| Elder | Tin Chung  | [chungquantin](https://github.com/chungquantin) | 19nSqFQorfF2HxD3oBzWM3oCh4SaCRKWt1yvmgaPYGCo71J  |
+| OpenGuild Rank | Name | Github Username | Discord  | Onchain Identity |
+| ------------ | ------------- | ------------- | ------- | ------------- |
+| Elder | Tin Chung  | [chungquantin](https://github.com/chungquantin) | chasechung | 19nSqFQorfF2HxD3oBzWM3oCh4SaCRKWt1yvmgaPYGCo71J  |
